@@ -9,7 +9,6 @@
 
 .card-text {
     display: inline;
-
     color: red;
     font-family: "DIN Alternate";
 }
@@ -18,6 +17,7 @@ p {
     color: red;
     font-family: 'DIN Alternate';
     padding-bottom: -10px;
+    font-size: 1.3rem;
 }
 
 .title {
