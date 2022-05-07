@@ -30,3 +30,22 @@ p {
 .title .titleSpan {
     color: red;
 }
+
+.title2 {
+    font-size: 1.2rem;
+    margin-top: 20px;
+    text-align: center;
+
+    color: black;
+}
+
+.title2 .titleSpan2 {
+    color: red;
+}
+
+.people {
+    
+    margin-top: -10px;
+    color: grey;
+    font-size: 0.9rem;
+}
