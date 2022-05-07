@@ -1,0 +1,32 @@
+.card {
+    margin: auto;
+    margin-top: 20px;
+}
+
+.card:first-child {
+    margin-top: 50px;
+}
+
+.card-text {
+    display: inline;
+
+    color: red;
+    font-family: "DIN Alternate";
+}
+
+p {
+    color: red;
+    font-family: 'DIN Alternate';
+    padding-bottom: -10px;
+}
+
+.title {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 1.5rem;
+    color: black;
+}
+
+.title .titleSpan {
+    color: red;
+}
